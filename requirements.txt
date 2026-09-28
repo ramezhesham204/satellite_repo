@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+rasterio
+geopandas
+sentinelhub
+python-dotenv
+torch
+torchvision
+flask
+pillow
